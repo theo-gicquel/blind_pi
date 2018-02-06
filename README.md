@@ -4,15 +4,16 @@ système de pilotage automatique d'un volet
 # Arborescence
 ```text
 |____arduino
+|       |______*.ino
 |
 |____raspberry pi
-      |  |___php
-      |       |__android.php
-      |       |__envoi.php      
-      |
-      |________python
-                  sync.py
-
+      |    |    |___php
+      |    |         |__android.php
+      |    |         |__envoi.php      
+      |    |
+      |    |____python
+      |           |__sync.py
+      |____
 ```    
           
 # A faire
