@@ -2,6 +2,11 @@
 système de pilotage automatique d'un volet
 
 # Arborescence
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 
 |----arduino
 |
