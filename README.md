@@ -2,20 +2,18 @@
 système de pilotage automatique d'un volet
 
 # Arborescence
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-
-|----arduino
+```text
+|____arduino
 |
-|----raspberry pi
-        \____php
-         \     \__android.php
-          \     \__envoi.php      
-           \________python
-           
+|____raspberry pi
+      |  |___php
+      |       |__android.php
+      |       |__envoi.php      
+      |
+      |________python
+                  sync.py
+
+```    
           
 # A faire
 - Mettre au propre le code source arduino
