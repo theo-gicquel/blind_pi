@@ -1,0 +1,9 @@
+#include <rgb_lcd.h>
+
+void setup(){
+	Serial.begin(9600);
+}
+
+void loop(){
+
+}
