@@ -20,8 +20,8 @@ Un programme python récupére les infos, puis les stocke en clair à la racine 
 ```    
           
 # A faire
-*Mettre au propre le code source arduino
-*Lancer automatiquement le python du raspberry pi
-*Terminer l'application android
-*Réaliser schéma électrique de la carte
-*Faire fonctionner le moteur 
+* Mettre au propre le code source arduino
+* Lancer automatiquement le python du raspberry pi
+* Terminer l'application android
+* Réaliser schéma électrique de la carte
+* Faire fonctionner le moteur du volet
