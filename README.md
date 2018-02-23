@@ -4,6 +4,10 @@ système de pilotage automatique d'un volet
 La carte arduino récupère les informations des capteurs, puis les envoie sur le port série.
 Un programme python récupére les infos, puis les stocke en clair à la racine du serveur apache.
 
+placeholder image: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 # Arborescence
 ```text
 |____arduino
