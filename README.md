@@ -24,8 +24,16 @@ placeholder image:
 ```    
           
 # A faire
-* Mettre au propre le code source arduino
-* ~~Lancer automatiquement le python du raspberry pi~~ [OK]
-* Terminer l'application android
-* Réaliser schéma électrique de la carte
+__Partie Matérielle__
 * Faire fonctionner le moteur du volet
+
+__Partie Logicielle__
+* ~~Lancer automatiquement le python du raspberry pi~~ [OK]
+* Créer un script d'installation Bash permettant d'installer le système complet
+* Terminer l'application android
+* Mettre au propre le code source arduino
+
+__Partie Documentaire__
+* Réaliser une revue de projet
+* Réaliser le schéma électrique de la carte Arduino et des capteurs
+* Créer un manuel d'explication du serveur Apache et du script Python
