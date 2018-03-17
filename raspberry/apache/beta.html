@@ -1,0 +1,38 @@
+<html>
+<head>
+		<link rel="stylesheet" href="beta.css" />
+
+</head>
+
+
+<body>
+
+	<div class="gauche">
+
+ <p>Température intérieure :<font color='orange'>15</font>°C<br>
+  <p>Température extérieure :<font color='orange'>24</font>°C</p>
+ <p>Luminosité :<font color='orange'>202</font>lumen</p>
+<p>Etat :[<font color='green'>OK</font>]</p>
+<p>Ouverture : <font color='orange'>OUI</font>
+<p>Mode :<font color='orange'>AUTOMATIQUE</font>
+<p>Charge batterie :<font color='orange'>100%</font>% </p>
+
+	</div>
+
+
+	<div class="droite">	
+
+	<?php
+		echo "<br>Température intérieure :<font color='orange'>" . $tempint ."</font>°C<br>";
+		echo "Température extérieure :<font color='orange'>" . $tempext . "</font>°C<br>";
+		echo "Luminosité <font color='orange'>: " . $lumin . " </font>lumen<br>";
+		echo "<p align='left'>Etat :[<font color='green'>" . $etat . "</font>]<br>";
+		echo "Ouverture : <font color='orange'>" . $ouverture . "</font><br>";
+		echo "Mode :<font color='orange'> " . $mode . "</font><br>";
+		echo "Charge batterie :<font color='orange'> " . $batterie . "</font>% </p><br>";
+	?>	
+</div>
+
+</body>
+
+</html>
