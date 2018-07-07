@@ -1,0 +1,87 @@
+html {
+	display:table;
+	margin:auto;
+}
+
+* {
+	font-family: sans-serif;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+
+body {
+	background-color: #323131;
+	color: white;
+}
+
+a {
+	color: #BF584E;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+main {
+	width: 80%;
+	margin: auto;
+	padding-top: 30px;
+}
+
+
+header {
+	font-size: 400%;
+	
+}
+
+header a {
+	color: white;
+}
+
+
+
+
+.actif {
+	background-color: green;
+}
+
+.hubbutton a{
+	height: 120px;
+	width: 150px;
+	display: block;
+	color: white;
+	background-color: #424141;
+	font-size: 14px;
+	text-align: center;
+}
+
+
+.hubbutton {
+	display: inline-block;
+	margin: 10px;
+}
+
+
+
+.hubbutton p {
+	background-color: #BF584E;
+	text-align: center;
+	height: 30px;
+	width: 150px;
+	margin: 0px;
+	font-size: 14px;
+}
+
+.hubbutton:hover p {
+	background-color: #009512;
+}
+
+
+.left {float:left; margin: 15px; margin-right: 60px;}
+.right {float:right; margin: 15px; margin-left: 60px;}
+
