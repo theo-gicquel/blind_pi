@@ -8,15 +8,4 @@ Le mode automatique opére en récupérant les informations des capteurs de temp
 Le mode manuel permet à l'utilisateur d'ouvrir ou fermer le volet sur commande via une application android et une interface web.
 
 # Travail effectué
-[PDF COMPLET](https://www.google.com)
-
-## Interface web
-Interface web permettant l'affichage et la modification des variables du serveur
-
-## Interprétation série
-Récupération des données des capteurs via le port série de la carte arduino
-
-## Pilotage via GPIO
-Renvoi des ordres du serveur vers la carte arduino via les broches GPIO.
-
-
+[PDF COMPLET](https://github.com/theo-gicquel/blind_pi/blob/master/Dossier_Gicquel_Theo.pdf)
